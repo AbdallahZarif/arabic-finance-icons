@@ -7,7 +7,7 @@ An open source SVG icon set for bilingual financial products. The first release 
 ## Browse
 
 
-Open `preview/index.html` in a browser. Every icon is a standalone SVG in `icons/` with a 24 × 24 viewBox, `currentColor`, round joins, and a 1.8 px stroke. Icons can be used in Arabic RTL and English LTR layouts.
+Explore the [live bilingual gallery](https://abdallahzarif.github.io/arabic-finance-icons/), or open `preview/index.html` locally. Every icon is a standalone SVG in `icons/` with a 24 × 24 viewBox, `currentColor`, round joins, and a 1.8 px stroke. Icons can be used in Arabic RTL and English LTR layouts.
 
 
 ## Icon gallery
