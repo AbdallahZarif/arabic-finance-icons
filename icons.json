@@ -1,0 +1,66 @@
+{
+  "bank": {
+    "en": "Bank",
+    "ar": "بنك"
+  },
+  "wallet": {
+    "en": "Wallet",
+    "ar": "محفظة"
+  },
+  "card": {
+    "en": "Card",
+    "ar": "بطاقة"
+  },
+  "transfer": {
+    "en": "Transfer",
+    "ar": "تحويل"
+  },
+  "send": {
+    "en": "Send",
+    "ar": "إرسال"
+  },
+  "receive": {
+    "en": "Receive",
+    "ar": "استلام"
+  },
+  "exchange": {
+    "en": "Exchange",
+    "ar": "صرف عملات"
+  },
+  "receipt": {
+    "en": "Receipt",
+    "ar": "إيصال"
+  },
+  "history": {
+    "en": "History",
+    "ar": "السجل"
+  },
+  "shield": {
+    "en": "Protection",
+    "ar": "حماية"
+  },
+  "lock": {
+    "en": "Lock",
+    "ar": "قفل"
+  },
+  "verify": {
+    "en": "Verified",
+    "ar": "موثّق"
+  },
+  "savings": {
+    "en": "Savings",
+    "ar": "ادخار"
+  },
+  "fees": {
+    "en": "Fees",
+    "ar": "رسوم"
+  },
+  "globe": {
+    "en": "International",
+    "ar": "دولي"
+  },
+  "phone": {
+    "en": "Mobile payment",
+    "ar": "دفع بالموبايل"
+  }
+}
